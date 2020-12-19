@@ -1,0 +1,32 @@
+body{
+	background-color:#333333;
+}
+#main_container{
+	position:absolute;
+	border: 1px solid white;
+	padding:5px;
+	left:32vh;
+	top:10vh;
+
+}
+#header{
+	background-color: #EDEDED;
+}
+#main{
+	padding:2px;
+	background-color: #EDEDED;
+}
+#table_dashboard{
+        border-spacing: 15px;
+}
+#maindashboard{
+    background-color: #EDEDED;
+}
+#main_table,th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}

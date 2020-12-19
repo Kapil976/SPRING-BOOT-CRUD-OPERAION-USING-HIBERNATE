@@ -1,0 +1,22 @@
+body{
+	background-color:#333333;
+}
+#main_container{
+	position:absolute;
+	border: 1px solid white;
+	padding:5px;
+	left:80vh;
+	top:10vh;
+
+}
+#header{
+	text-align: center;
+	background-color: #EDEDED;
+}
+#main{
+	padding:2px;
+	background-color: #EDEDED;
+}
+#table_register{
+	border-spacing: 15px;
+}
